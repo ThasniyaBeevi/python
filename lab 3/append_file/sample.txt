@@ -1,0 +1,5 @@
+hi
+hello
+how are you?
+read this file
+We have added more contents to the file.
